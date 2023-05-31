@@ -1,0 +1,9 @@
+﻿  Iluminación22023.cpp
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\shaderm.h(58,40): warning C4101: 'e': variable local sin referencia
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\modelAnim.h(108,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\modelAnim.h(524,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\Iluminación22023.cpp(319,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\MaximoCG\Iluminación22023.cpp(321,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  MaximoCG.vcxproj -> C:\Users\PC\Documents\Visual Studio 2022\Projects\MaximoCG\Debug\MaximoCG.exe
